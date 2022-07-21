@@ -26,6 +26,7 @@
 #include <stdio.h>
 
 
+
 NotchFilterEditor::NotchFilterEditor(GenericProcessor* parentNode, bool useDefaultParameterEditors=true)
     : GenericEditor(parentNode, useDefaultParameterEditors)
 
